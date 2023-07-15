@@ -1,0 +1,12 @@
+{
+  "status": "User Created Successfully",
+  "user": {
+    "email": "payslate3@gmail.com",
+    "phone": "+2348033446966",
+    "userName": "Third PaySlate User",
+    "password": "$2b$10$Ktda0tzEvtRF48hyK.u4i.uLzKXlgqZjzyer5BN0AmKRzv5/5VG7S",
+    "_id": "64b2abafd7159b7875fc4d61",
+    "__v": 0
+  },
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YjJhYmFmZDcxNTliNzg3NWZjNGQ2MSIsImVtYWlsIjoicGF5c2xhdGUzQGdtYWlsLmNvbSIsImlhdCI6MTY4OTQzMDk1OSwiZXhwIjoxNjg5NDM4MTU5fQ.pxw4x_nc__BP3u6hTg17rS9ULpQyQ_7jE-Pl84dVi3o"
+}

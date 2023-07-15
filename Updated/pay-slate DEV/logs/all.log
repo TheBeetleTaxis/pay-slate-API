@@ -1,0 +1,234 @@
+2023-07-10 11:32:31:3231 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-10 11:32:31:3231 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 14:33:35:3335 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 14:33:57:3357 [31merror[39m: [31mconnect ECONNREFUSED 127.0.0.1:27017[39m
+2023-07-11 14:34:35:3435 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 14:34:35:3435 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 14:39:37:3937 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 14:39:37:3937 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 14:40:14:4014 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 14:40:14:4014 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 14:41:18:4118 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 14:41:18:4118 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 14:44:46:4446 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 14:44:46:4446 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 14:45:59:4559 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 14:45:59:4559 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 14:46:20:4620 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 14:46:20:4620 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 14:47:42:4742 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 14:47:42:4742 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 14:52:30:5230 [35mhttp[39m: [35mPOST /api/v0/school 201 450 - 189.747 ms[39m
+[35m[39m
+2023-07-11 14:54:17:5417 [35mhttp[39m: [35mPOST /api/v0/school/login 400 49 - 140.276 ms[39m
+[35m[39m
+2023-07-11 14:54:46:5446 [35mhttp[39m: [35mPOST /api/v0/school/login 400 49 - 143.970 ms[39m
+[35m[39m
+2023-07-11 14:56:19:5619 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 14:56:19:5619 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 14:56:26:5626 [35mhttp[39m: [35mPOST /api/v0/school/login 400 46 - 164.074 ms[39m
+[35m[39m
+2023-07-11 14:57:17:5717 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 14:57:17:5717 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 14:57:43:5743 [35mhttp[39m: [35mPOST /api/v0/school 201 450 - 194.145 ms[39m
+[35m[39m
+2023-07-11 14:57:54:5754 [35mhttp[39m: [35mPOST /api/v0/school/login 400 46 - 147.189 ms[39m
+[35m[39m
+2023-07-11 14:58:30:5830 [35mhttp[39m: [35mPOST /api/v0/school/login 400 46 - 153.381 ms[39m
+[35m[39m
+2023-07-11 14:58:57:5857 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 14:58:57:5857 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 14:59:21:5921 [35mhttp[39m: [35mPOST /api/v0/school/login 200 450 - 201.258 ms[39m
+[35m[39m
+2023-07-11 14:59:53:5953 [35mhttp[39m: [35mPOST /api/v0/school/login 400 46 - 126.807 ms[39m
+[35m[39m
+2023-07-11 15:00:35:035 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 15:00:35:035 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 15:01:27:127 [35mhttp[39m: [35mPOST /api/v0/school/login 400 49 - 160.679 ms[39m
+[35m[39m
+2023-07-11 15:03:36:336 [35mhttp[39m: [35mPOST /api/v0/school 201 450 - 159.786 ms[39m
+[35m[39m
+2023-07-11 15:05:19:519 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 15:05:19:519 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 15:06:56:656 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 15:06:56:656 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 15:07:24:724 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 15:07:24:724 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 15:22:20:2220 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 15:22:20:2220 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 15:32:38:3238 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 15:32:38:3238 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 16:40:03:403 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 16:40:03:403 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 16:40:24:4024 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 16:40:24:4024 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 16:47:40:4740 [35mhttp[39m: [35mPOST /api/v0/school 400 50 - 191.685 ms[39m
+[35m[39m
+2023-07-11 16:49:22:4922 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 16:49:22:4922 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 16:52:54:5254 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 16:52:54:5254 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 16:54:01:541 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 16:54:01:541 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 16:54:03:543 [35mhttp[39m: [35mPOST /api/v0/school 400 50 - 176.697 ms[39m
+[35m[39m
+2023-07-11 16:54:47:5447 [35mhttp[39m: [35mPOST /api/v0/school 201 452 - 171.415 ms[39m
+[35m[39m
+2023-07-11 16:56:32:5632 [35mhttp[39m: [35mGET /api/v0/school/64ad7b477481668c7f5af5ec 404 16 - 1.502 ms[39m
+[35m[39m
+2023-07-11 16:56:58:5658 [35mhttp[39m: [35mGET /api/v0/school/profile/64ad7b477481668c7f5af5ec 200 237 - 18.507 ms[39m
+[35m[39m
+2023-07-11 17:01:31:131 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 17:01:31:131 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 17:02:43:243 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 17:02:43:243 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 17:03:00:30 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 17:03:00:30 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 17:03:33:333 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 17:03:34:334 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 17:03:40:340 [35mhttp[39m: [35mGET /api/v0/school/profile/64ad7b477481668c7f5af5e 400 47 - 36.380 ms[39m
+[35m[39m
+2023-07-11 17:04:22:422 [35mhttp[39m: [35mGET /api/v0/school/profile/64ad7b477481668c7f5af5ec 200 237 - 22.554 ms[39m
+[35m[39m
+2023-07-11 17:04:44:444 [35mhttp[39m: [35mGET /api/v0/school 404 16 - 0.886 ms[39m
+[35m[39m
+2023-07-11 17:07:53:753 [35mhttp[39m: [35mPUT /api/v0/school/profile/64ad7b477481668c7f5af5ec 400 164 - 24.732 ms[39m
+[35m[39m
+2023-07-11 17:09:47:947 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 17:09:47:947 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 17:15:37:1537 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 17:15:37:1537 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 17:15:46:1546 [35mhttp[39m: [35mPUT /api/v0/school/profile/64ad7b477481668c7f5af5ec 200 236 - 77.585 ms[39m
+[35m[39m
+2023-07-11 17:16:12:1612 [35mhttp[39m: [35mGET /api/v0/school 200 653 - 14.884 ms[39m
+[35m[39m
+2023-07-11 17:17:45:1745 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 17:17:45:1745 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 17:18:24:1824 [35mhttp[39m: [35mDELETE /api/v0/school/profile/64ad7b477481668c7f5af5ec 404 48 - 34.819 ms[39m
+[35m[39m
+2023-07-11 17:18:31:1831 [35mhttp[39m: [35mGET /api/v0/school 200 446 - 16.075 ms[39m
+[35m[39m
+2023-07-11 17:21:07:217 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 17:21:07:217 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 17:21:56:2156 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 17:21:56:2156 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 17:37:47:3747 [32minfo[39m: [32mServer running on port: undefined[39m
+2023-07-11 17:38:14:3814 [31merror[39m: [31mconnect ECONNREFUSED 127.0.0.1:27017[39m
+2023-07-11 17:42:53:4253 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-11 17:42:56:4256 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-11 18:00:30:030 [35mhttp[39m: [35mPOST /api/v0/school/ 400 106 - 27.541 ms[39m
+[35m[39m
+2023-07-11 18:01:12:112 [35mhttp[39m: [35mPOST /api/v0/school/ 201 469 - 612.886 ms[39m
+[35m[39m
+2023-07-11 18:18:26:1826 [35mhttp[39m: [35mPOST /api/v0/school/ 400 323 - 2.850 ms[39m
+[35m[39m
+2023-07-11 18:32:14:3214 [35mhttp[39m: [35mPOST /api/v0/school/login 200 469 - 304.126 ms[39m
+[35m[39m
+2023-07-11 18:38:06:386 [35mhttp[39m: [35mPOST /api/v0/school/login 400 100 - 1.216 ms[39m
+[35m[39m
+2023-07-11 18:40:51:4051 [35mhttp[39m: [35mPOST /api/v0/school/ 201 466 - 616.246 ms[39m
+[35m[39m
+2023-07-11 18:41:02:412 [35mhttp[39m: [35mGET /api/v0/school/ 200 792 - 345.729 ms[39m
+[35m[39m
+2023-07-11 18:46:32:4632 [35mhttp[39m: [35mGET /api/v0/school/profile/64ad942293f9e1f8c3567c51 200 252 - 409.559 ms[39m
+[35m[39m
+2023-07-11 18:54:12:5412 [35mhttp[39m: [35mGET /api/v0/school/profile/64ad942293f9e1f8c3567c51 200 252 - 656.645 ms[39m
+[35m[39m
+2023-07-11 18:55:00:550 [35mhttp[39m: [35mPUT /api/v0/school/profile/64ad942293f9e1f8c3567c51 400 49 - 555.839 ms[39m
+[35m[39m
+2023-07-11 18:55:24:5524 [35mhttp[39m: [35mPUT /api/v0/school/profile/64ad942293f9e1f8c3567c51 200 253 - 833.777 ms[39m
+[35m[39m
+2023-07-11 19:01:58:158 [35mhttp[39m: [35mDELETE /api/v0/school/profile/64ac821415d64dbfc3bcefc1 200 47 - 829.857 ms[39m
+[35m[39m
+2023-07-15 14:22:29:2229 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-15 14:22:34:2234 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-15 14:25:58:2558 [35mhttp[39m: [35mPOST /api/v0/user/ 404 16 - 4.375 ms[39m
+[35m[39m
+2023-07-15 14:26:07:267 [35mhttp[39m: [35mPOST /api/v0/users/ 404 16 - 0.707 ms[39m
+[35m[39m
+2023-07-15 14:31:02:312 [35mhttp[39m: [35mPOST /api/v0/user/ 404 16 - 0.374 ms[39m
+[35m[39m
+2023-07-15 14:32:19:3219 [35mhttp[39m: [35mPOST /school/ 404 16 - 0.481 ms[39m
+[35m[39m
+2023-07-15 14:32:38:3238 [35mhttp[39m: [35mPOST /api/v0/User/ 404 16 - 0.782 ms[39m
+[35m[39m
+2023-07-15 14:32:43:3243 [35mhttp[39m: [35mPOST /api/v0/Users/ 404 16 - 0.607 ms[39m
+[35m[39m
+2023-07-15 14:32:58:3258 [35mhttp[39m: [35mPOST /api/v0/ 404 16 - 0.376 ms[39m
+[35m[39m
+2023-07-15 14:34:24:3424 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-15 14:34:28:3428 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-15 14:35:01:351 [35mhttp[39m: [35mPOST /api/v0/user 400 556 - 19.691 ms[39m
+[35m[39m
+2023-07-15 14:38:50:3850 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-15 14:38:54:3854 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-15 14:39:22:3922 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-15 14:39:24:3924 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-15 14:39:26:3926 [35mhttp[39m: [35mPOST /api/v0/user 400 319 - 20.251 ms[39m
+[35m[39m
+2023-07-15 14:41:31:4131 [35mhttp[39m: [35mPOST /api/v0/user 400 319 - 10.333 ms[39m
+[35m[39m
+2023-07-15 14:41:46:4146 [35mhttp[39m: [35mPOST /api/v0/user 400 319 - 4.937 ms[39m
+[35m[39m
+2023-07-15 14:43:16:4316 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-15 14:43:20:4320 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-15 14:43:21:4321 [35mhttp[39m: [35mPOST /api/v0/user 400 247 - 18.269 ms[39m
+[35m[39m
+2023-07-15 14:44:16:4416 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-15 14:44:24:4424 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-15 14:44:29:4429 [35mhttp[39m: [35mPOST /api/v0/user 400 239 - 20.251 ms[39m
+[35m[39m
+2023-07-15 14:53:36:5336 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-15 14:53:40:5340 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-15 14:53:48:5348 [35mhttp[39m: [35mPOST /api/v0/user 400 239 - 19.210 ms[39m
+[35m[39m
+2023-07-15 14:54:35:5435 [35mhttp[39m: [35mPOST /api/v0/user 400 239 - 6.833 ms[39m
+[35m[39m
+2023-07-15 14:59:26:5926 [32minfo[39m: [32mServer running on port: 3004[39m
+2023-07-15 14:59:30:5930 [32minfo[39m: [32mDatabase connection successful[39m
+2023-07-15 14:59:34:5934 [35mhttp[39m: [35mPOST /api/v0/user 201 458 - 978.152 ms[39m
+[35m[39m
+2023-07-15 15:18:12:1812 [35mhttp[39m: [35mPOST /api/v0/user 400 309 - 6.236 ms[39m
+[35m[39m
+2023-07-15 15:19:34:1934 [35mhttp[39m: [35mPOST /api/v0/user/login 200 411 - 306.415 ms[39m
+[35m[39m
+2023-07-15 15:20:22:2022 [35mhttp[39m: [35mPOST /api/v0/user 201 474 - 650.582 ms[39m
+[35m[39m
+2023-07-15 15:22:39:2239 [35mhttp[39m: [35mPOST /api/v0/user 201 472 - 565.940 ms[39m
+[35m[39m
+2023-07-15 15:27:25:2725 [35mhttp[39m: [35mGET /api/v0/user/ 200 8246 - 406.352 ms[39m
+[35m[39m
+2023-07-15 15:29:00:290 [35mhttp[39m: [35mGET /api/v0/user/profile/64a5872892ae8adb1d7c33e0 200 393 - 205.636 ms[39m
+[35m[39m
+2023-07-15 15:33:33:3333 [35mhttp[39m: [35mPUT /api/v0/user/profile/64a5872892ae8adb1d7c33e0 400 85 - 408.596 ms[39m
+[35m[39m
+2023-07-15 15:33:49:3349 [35mhttp[39m: [35mPUT /api/v0/user/profile/64a5872892ae8adb1d7c33e0 400 85 - 242.907 ms[39m
+[35m[39m
+2023-07-15 15:34:02:342 [35mhttp[39m: [35mPUT /api/v0/user/profile/64a5872892ae8adb1d7c33e0 400 85 - 1232.636 ms[39m
+[35m[39m
+2023-07-15 15:34:54:3454 [35mhttp[39m: [35mGET /api/v0/user/profile/64a5872892ae8adb1d7c33e0 200 393 - 243.017 ms[39m
+[35m[39m
+2023-07-15 15:35:27:3527 [35mhttp[39m: [35mPUT /api/v0/user/profile/64a5872892ae8adb1d7c33e0 400 88 - 287.052 ms[39m
+[35m[39m
+2023-07-15 15:35:38:3538 [35mhttp[39m: [35mPUT /api/v0/user/profile/64a5872892ae8adb1d7c33e0 400 85 - 399.535 ms[39m
+[35m[39m
+2023-07-15 15:36:58:3658 [35mhttp[39m: [35mGET /api/v0/user/profile/64b2ab25d7159b7875fc4d5e 200 234 - 253.731 ms[39m
+[35m[39m
+2023-07-15 15:37:54:3754 [35mhttp[39m: [35mPUT /api/v0/user/profile/64b2ab25d7159b7875fc4d5e 400 85 - 364.042 ms[39m
+[35m[39m
+2023-07-15 15:38:04:384 [35mhttp[39m: [35mPUT /api/v0/user/profile/64b2ab25d7159b7875fc4d5e 400 97 - 382.673 ms[39m
+[35m[39m
+2023-07-15 15:38:32:3832 [35mhttp[39m: [35mPUT /api/v0/user/profile/64b2ab25d7159b7875fc4d5e 400 85 - 214.762 ms[39m
+[35m[39m
+2023-07-15 15:40:41:4041 [35mhttp[39m: [35mPUT /api/v0/user/profile/64b2ab25d7159b7875fc4d5e 400 85 - 376.823 ms[39m
+[35m[39m
+2023-07-15 15:42:05:425 [35mhttp[39m: [35mPUT /api/v0/user/profile/64b2ab25d7159b7875fc4d5e 400 97 - 419.029 ms[39m
+[35m[39m
+2023-07-15 15:42:49:4249 [35mhttp[39m: [35mPATCH /api/v0/user/profile/64b2ab25d7159b7875fc4d5e 404 16 - 0.544 ms[39m
+[35m[39m
+2023-07-15 15:42:55:4255 [35mhttp[39m: [35mPUT /api/v0/user/profile/64b2ab25d7159b7875fc4d5e 400 97 - 326.808 ms[39m
+[35m[39m
+2023-07-15 15:51:51:5151 [35mhttp[39m: [35mDELETE /api/v0/user/profile/64b2ab25d7159b7875fc4d5e - - - - ms[39m
+[35m[39m
+2023-07-15 15:53:37:5337 [35mhttp[39m: [35mDELETE /api/v0/user/profile/64b2ab25d7159b7875fc4d5e - - - - ms[39m
+[35m[39m
